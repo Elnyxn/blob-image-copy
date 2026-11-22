@@ -1,0 +1,5 @@
+{
+  "extensionName": { "message": "Blob 图片复制" },
+  "extensionDescription": { "message": "右键复制图片内容，而不是图片链接。" },
+  "copyMenu": { "message": "blob复制" }
+}

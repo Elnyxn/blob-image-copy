@@ -1,0 +1,5 @@
+{
+  "extensionName": { "message": "Blob Image Copy" },
+  "extensionDescription": { "message": "Right-click to copy the image, not its link." },
+  "copyMenu": { "message": "Copy Blob" }
+}

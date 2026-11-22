@@ -1,0 +1,5 @@
+{
+  "extensionName": { "message": "Blob 圖片複製" },
+  "extensionDescription": { "message": "按右鍵複製圖片內容，而不是圖片連結。" },
+  "copyMenu": { "message": "blob複製" }
+}
